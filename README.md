@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Data Analysis and Insights
+# Retail Sales Data Analysis and Insights
 
 This project provides an end-to-end Exploratory Data Analysis (EDA) of a Retail Sales dataset. The goal is to uncover meaningful insights into sales performance, customer behavior, and product trends using Python.
 
