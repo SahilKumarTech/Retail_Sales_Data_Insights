@@ -72,4 +72,4 @@ Based on the insights, the following recommendations were made:
 ---
 
 ## 📬 Feedback
-If you have any suggestions or feedback, feel free to open an issue or contact me on [LinkedIn](#).
+If you have any suggestions or feedback, feel free to open an issue or contact me on [LinkedIn](www.linkedin.com/in/sahil-kumar-848392259).
